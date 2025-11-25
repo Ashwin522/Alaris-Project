@@ -1,0 +1,7 @@
+Title: 3D Gaussian Splatting for Real-Time Radiance Field Rendering
+Authors: Bernhard Kerbl, Georgios Kopanas, Thomas Leimkühler, George Drettakis
+Affiliations: Inria, Université Côte d’Azur; Max-Planck-Institut für Informatik
+
+Abstract:
+This is the abstract of the paper.
+...
